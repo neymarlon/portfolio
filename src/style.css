@@ -143,7 +143,7 @@ p {
     }
 
     h1 {
-        font-size: 35px;
+        font-size: 29px;
     }
 
     p {
@@ -169,11 +169,5 @@ p {
 
     .contatos h1 {
         font-size: 20px;
-    }
-
-    body, html {
-        height: 100%;
-        overflow-y: hidden;
-        overflow-x: hidden;
     }
 }
