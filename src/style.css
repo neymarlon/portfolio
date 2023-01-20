@@ -134,7 +134,7 @@ p {
     .social-media {
         display: block;
         right: 800px;
-        top: 380px;
+        top: 450px;
     }
 
     .social-media img {
@@ -143,11 +143,12 @@ p {
     }
 
     h1 {
-        font-size: 22px;
+        font-size: 30px;
     }
 
     p {
-        font-size: 9px;
+        font-size: 15px;
+        font-weight: bold;
     }
 
     .center {
@@ -157,5 +158,17 @@ p {
         margin: 0 auto;
         padding: 0 2%;
         margin-left: 10px;
+    }
+
+    .minha_historia h1 {
+        font-size: 20px;
+    }
+
+    .projetos h1 {
+        font-size: 20px;
+    }
+
+    .contatos h1 {
+        font-size: 20px;
     }
 }
