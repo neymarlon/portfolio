@@ -115,29 +115,29 @@ p {
 
 
     .foto {
-        width: 250px;
-        margin-left: 35px;
-        margin-top: 150px;
+        width: 200px;
+        margin-left: -10px;
+        margin-top: 140px;
     }
 
     .extras {
         position: absolute;
-        bottom: -600px;
-        right: -700px;
+        bottom: -400px;
+        right: -780px;
         width: 1000px;
-        height: 1300px;
+        height: 1000px;
         border-radius: 50%;
         background-color: #006240;
     }
 
     .social-media {
         display: block;
-        right: 750px;
-        top: 450px;
+        right: 800px;
+        top: 380px;
     }
 
     h1 {
-        font-size: 14px;
+        font-size: 22px;
     }
 
     p {
