@@ -73,6 +73,7 @@ section .sobre {
 }
 
 .social-media img {
+    width: 50px;
     display: block;
 }
 
@@ -134,6 +135,11 @@ p {
         display: block;
         right: 800px;
         top: 380px;
+    }
+
+    .social-media img {
+        display: block;
+        width: 25px;
     }
 
     h1 {
