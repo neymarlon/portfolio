@@ -96,11 +96,16 @@ p {
 }
 
 @media (max-width: 1300px) {
+
     .menu {
         width: 100%;
         text-align: center;
         padding-top: 20px;
         align-items: center;
+    }
+
+    .menu a {
+        font-size: 10px;
     }
 
     .logo {
@@ -112,7 +117,7 @@ p {
     .foto {
         width: 250px;
         margin-left: 35px;
-        margin-top: 35px;
+        margin-top: 150px;
     }
 
     .extras {
@@ -128,15 +133,15 @@ p {
     .social-media {
         display: block;
         right: 750px;
-        top: 350px;
+        top: 450px;
     }
 
     h1 {
-        font-size: 35px;
+        font-size: 14px;
     }
 
     p {
-        font-size: 23px;
+        font-size: 9px;
     }
 
     .center {
