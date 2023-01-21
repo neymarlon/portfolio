@@ -152,9 +152,9 @@ p {
 
 
     .foto {
-        width: 230px;
+        width: 255px;
         margin-left: -50px;
-        margin-top: 360px;
+        margin-top: 320px;
     }
 
     .extras {
@@ -170,7 +170,7 @@ p {
     .social-media {
         display: block;
         right: 800px;
-        top: 110px;
+        top: 190px;
     }
 
     .social-media img {
