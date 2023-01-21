@@ -131,6 +131,15 @@ p {
 /*seção para ajustes navegadores mobile*/
 @media (max-width: 1030px) {
 
+    header {
+        padding: 20px 0;
+        height: 150px;
+    }
+
+    html {
+        margin-top: -50px;
+    }
+
     .menu {
         width: 100%;
         text-align: center;
