@@ -314,9 +314,18 @@ p {
     }
     .container-projeto img {
         width: 130px;
-        height: 130px       
+        height: 130px;
+    }
+
+    .container-projeto h1 {
+        font-size: 15px;
 
     }
+    
+    .container-projeto p {
+        font-size: 10px;
+    }
+
 
     .contatos h1 {
         font-size: medium;
