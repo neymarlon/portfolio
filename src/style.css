@@ -318,9 +318,14 @@ p {
         width: 100%;
     }
 
+    .container-projeto {
+        display: flex;
+        flex-direction: row;
+    }    
+
     .container-projeto img {
-        width: 100px;
-        height: 100px;
+        width: 80px;
+        height: 80px;
     }
     
     .container-projeto .texto-projeto  h1 {
@@ -329,7 +334,7 @@ p {
     
     .container-projeto .texto-projeto p {
         font-size: 12px;
-        padding: 6px;
+        padding: 0px 4px 0px 4px;
     }
 
     .contatos h1 {
