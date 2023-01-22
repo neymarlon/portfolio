@@ -142,7 +142,7 @@ p {
 
 .texto-projeto p {
     font-size: 12px;
-    padding: 1px 5% 0px 5%;
+    padding: 1px 5% 0px 5%  ;
 }
 
 
@@ -233,7 +233,7 @@ p {
 @media (max-width: 1030px) {
 
     header {
-        padding: 20px 0;
+        margin-bottom: 8%;
         height: 150px;
     }
 
@@ -311,11 +311,13 @@ p {
         width: 100%;
     }
 
-    .projetos h1 {
-        font-size: medium;
+    }
+    .container-projeto img {
+        width: 130px;
+        height: 130px       
+
     }
 
     .contatos h1 {
         font-size: medium;
     }
-}
