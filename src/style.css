@@ -319,8 +319,8 @@ p {
     }
 
     .container-projeto img {
-        width: 130px;
-        height: 130px;
+        width: 100px;
+        height: 100px;
     }
     
     .container-projeto .texto-projeto  h1 {
@@ -329,6 +329,7 @@ p {
     
     .container-projeto .texto-projeto p {
         font-size: 12px;
+        padding: 18px;
     }
 
     .contatos h1 {
