@@ -213,13 +213,15 @@ p {
 
 
     .center .texto-sobre h1{
+        position: absolute;
         font-size: 33px;
         text-align: left;
     }
     
     
     .center .texto-sobre p {
-        border-right: 2px solid rgba(0, 0, 0, 0.75);
+        border-right: 2px solid rgba(0, 0, 0, 0.75);        
+        position: absolute;
         font-size: 25px;
         text-align: left;
         overflow: hidden;
