@@ -333,11 +333,12 @@ p {
 
     .container-projeto .texto-projeto  h1 {
         font-size: 18px;
+
     }
     
     .container-projeto .texto-projeto p {
         font-size: 12px;
-        padding: 0px 4px 0px 4px;
+        padding: 0px 4px 10px 4px;
     }
 
     .contatos h1 {
