@@ -43,7 +43,7 @@ header {
 
 .menu a {
     font-size: 20px;
-    color: black;
+    color:#006240;
     text-decoration: none;
     font-weight: bold;
     margin-right: 9px;
@@ -96,6 +96,7 @@ section .sobre {
 h1 {    
     font-size: 60px;
     text-align: center;
+    color: #006240;
 }
 
 
@@ -103,6 +104,7 @@ p {
     font-size: 40px;
     text-align: center;
     overflow: hidden;
+    color: #006240;
 }
 
 .center .texto-sobre h1{
@@ -143,18 +145,21 @@ p {
 }
 
 .minha_historia {
-    padding: 0;
+    padding: 10px 2px 0px 2px;
 
 }
 
 .minha_historia h1 {
     color: #006240;
     font-size: 25px;
+    padding-bottom: 18px;
 }
 
 .minha_historia p {
-    font-size: 16px;
+    padding: 10px 20% 0 20%;
+    font-size: 20px;
     text-align: justify;
+    color: black;
 }
 
 .container-projeto {
@@ -168,6 +173,7 @@ p {
 
 .texto-projeto {
     width: 100%;
+    padding-left: 4%;
 }
 
 .container-projeto img {
@@ -182,9 +188,11 @@ p {
 }
 
 .container-projeto .texto-projeto p {
-    padding: 25px;
-    font-size: 16px;
+    padding: 16px 20px 0 10px;
+    font-size: 20px;
     text-align: justify;
+    
+    color: black;
 }
 
 ::-webkit-scrollbar {
@@ -203,7 +211,7 @@ p {
 @media (max-width: 1030px) {
 
     header {
-        margin-bottom: 8%;
+        margin-bottom: 1%;
         height: 150px;
     }
 
@@ -296,12 +304,12 @@ p {
         flex-wrap: wrap;
         max-width: 1680px;
         margin: 0 auto;
-        padding: 0 2%;
-        margin-left: 10px;
+        padding: 10px 2% 0px 2%;
     }
 
     .minha_historia h1 {
-        font-size: medium;
+        font-size: 21px;
+        margin-bottom: 8%;
     }
     
     .minha_historia p {
@@ -319,8 +327,12 @@ p {
         height: 80px;
     }
     
+    .texto-projeto {
+        margin-left: 10px;
+    }
+
     .container-projeto .texto-projeto  h1 {
-        font-size: 16px;
+        font-size: 21px;
     }
     
     .container-projeto .texto-projeto p {
