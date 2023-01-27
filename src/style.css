@@ -315,6 +315,7 @@ p {
     .minha_historia p {
         font-size: 12px;
         width: 100%;
+        padding: 5%;
     }
 
     .container-projeto {
